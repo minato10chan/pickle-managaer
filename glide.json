@@ -1,0 +1,11 @@
+{
+  "parameters": [
+    { "name": "totalMatches", "type": "number" },
+    { "name": "lastStatus",   "type": "string" },
+    { "name": "totalRest",    "type": "number" },
+    { "name": "avgRest",      "type": "number" },
+    { "name": "minMatches",   "type": "number" },
+    { "name": "randomVal",    "type": "number" }
+  ],
+  "returns": "number"
+}
